@@ -1,0 +1,2 @@
+console.log("Web funguje!");
+alert("Web je nasazený!");
